@@ -1,27 +1,8 @@
 # Parking Space Detection Project
 
 This project aims to detect empty parking spaces in a video using machine learning techniques. The project utilizes the scikit-learn library for machine learning algorithms, OpenCV for image processing, and SVM (Support Vector Machine) as the classifier.
-
-## Installation
-
-1. Clone the repository:
    
-   git clone https://github.com/yourusername/parking-space-detection.git
-   
-
-2. Install the required dependencies:
-   
-   pip install -r requirements.txt
-   
-
-## Usage
-
-1. Run the main script:
-   
-   python main.py
-
-   
-2. The program will process the video and output the detected empty parking spaces.
+The program will process the video and output the detected empty parking spaces.
 
 <div style="text-align:center;">
    <img src="preview.png" height="400px">
